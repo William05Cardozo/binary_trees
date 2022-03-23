@@ -5,4 +5,4 @@ In this project we will look at binary trees, what they are and what to use them
 
 # AUTHORS:
 ## William Cardozo
-   * Twitter: ("https://twitter.com/W_anCardozo")
+   * [Twitter:]("https://twitter.com/W_anCardozo")
