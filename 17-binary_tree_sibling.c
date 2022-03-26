@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_silbing - Function we use to search the broda to node
+ * binary_tree_sibling - Function we use to search the broda to node
  * @node: Pointer to parent
  * Return: Number of broda
  */
