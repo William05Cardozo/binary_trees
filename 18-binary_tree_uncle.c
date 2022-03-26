@@ -3,7 +3,7 @@
 /**
  * binary_tree_uncle - Function to search the uncles in tree
  * @node: Pointer to parent
- * Return Number of uncles
+ * Return: Number of uncles
  */
 
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
